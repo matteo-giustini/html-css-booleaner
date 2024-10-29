@@ -1,11 +1,21 @@
+/*header*/
 .container {
     background-color: #4EA0FF;
     height: 120px;
     background-image: url(../img/pattern.png);
     background-size: 25%;
     }
-    
+
 .logo{
         width: 200px;
         height: 65;
     }
+/*/header*/
+/*info author*/
+.author-credit{
+    color: #808080;
+}
+.author-link{
+    color: #20A9E5;
+}
+/*info author*/
