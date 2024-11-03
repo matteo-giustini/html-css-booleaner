@@ -17,6 +17,7 @@
 }
 .author-link{
     color: #20A9E5;
+    text-decoration: none;
 }
 /*/info author*/
 /*article images*/
@@ -24,3 +25,41 @@
     height: 32px;
 }
 /*/article images/
+    Table
+*/
+table {
+    border-collapse: collapse;
+    text-align: left;
+}
+
+thead {
+    background-color: #1faae5;
+    color: #ffffff;
+}
+
+.table-row {
+    background-color: #b0e4f2;
+}
+
+.cell-bigger {
+    width: 50%;
+}
+
+/* /table
+    Posts
+*/
+.box {
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+    color: #ffffff;
+    font-size: 24px;
+}
+
+#monitor {
+    background-image: url('../img/monitor.jpg');
+}
+#graph {
+    background-image: url('../img/graph.jpg');
+}
+/*/posts
